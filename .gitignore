@@ -1,6 +1,7 @@
 # SCons build files
 *.sconsign.dblite
 config.log
+main
 
 # Prerequisites
 *.d
